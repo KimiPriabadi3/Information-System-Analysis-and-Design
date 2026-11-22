@@ -1,2 +1,7 @@
 # Testing-Project-Kelompok-4
-Binus TM Lab
+
+Anggota:
+- **Ratu Anazilah**
+- **Naila Alya Fahriza**
+- **Dean Danendra Athaya Electra**
+- **Muhammad Altaf Baihaqi Priabadi**
