@@ -1,0 +1,27 @@
+# Data pribadi (Nama & NIM)
+identitas.txt
+
+# Secrets / API key
+.env
+keys/*
+!keys/.gitkeep
+
+# Dependencies
+node_modules/
+venv/
+__pycache__/
+
+# Hasil testing
+test-results/
+playwright-report/
+Reports/
+
+# Driver
+chromedriver
+chromedriver.exe
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
