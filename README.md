@@ -1,7 +1,7 @@
 # Testing-Project-Kelompok-4
 
 Anggota:
-- **Ratu Anazilah**
+- **Ratu Anazilah** (Ketua)
 - **Naila Alya Fahriza**
 - **Dean Danendra Athaya Electra**
 - **Muhammad Altaf Baihaqi Priabadi**
